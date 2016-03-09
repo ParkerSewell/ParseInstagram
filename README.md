@@ -49,7 +49,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 Here's a walkthrough of implemented user stories:
 
 <<<<<<< HEAD
-<img src='http://imgur.com/MmGtCQ1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/gGL0cMT.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 =======
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 >>>>>>> 82fa2cbf534192f1d9981312d08fc1bbde52a286
